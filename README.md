@@ -3,7 +3,8 @@ Background:
 Este reto es obligatorio para continuar el proceso de selección para el puesto de desarrollador web dentro de geosatelital, te aconsejo lo hagas en un ambiente tranquilo ya que te puede tomar un mediano tiempo.
 Son 4 retos de backend (php, ruby o python) y 2 retos de frontend (js/html/css).
 Para la entrevista final solo tomaremos en cuenta a los que hayan terminado los retos.
-Adicionalmente agregamos unas preguntas que debes responder dentro del repositorio
+
+Adicionalmente agregamos unas preguntas en el archivo cuestionario.md que debes responder.
 
 Suerte!
 
