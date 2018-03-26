@@ -10,6 +10,6 @@ Suerte!
 Instrucciones:
 * 1) forkear/clonar este repositorio
 * 2) resolver los retos, debes elegir al menos 1 de los 3 (php,ruby,python), si deseas hacer tu implementacion en JS bienvenido...
-* 3) en el archivo index.html consumir los ultimos 10 tweets de https://twitter.com/ThePracticalDev , y cuando clicke en uno de los twitts pintar el hilo en un modal (solo 1 nivel)
+* 3) en el archivo index.html consumir los ultimos 10 tweets de https://twitter.com/ThePracticalDev , y al clickar en uno de los tweets. pintar el hilo en un modal (solo 1 nivel)
 * 4) responder las preguntas del archivo cuestionario.md
 * 5) pushear todo y enviar al mail plataforma@geosatelital.com tu repositorio publico de la solución
