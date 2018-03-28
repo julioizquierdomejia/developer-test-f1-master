@@ -5,7 +5,7 @@ def getPiDecimal()
 end
 
 # challenge 2
-def getSumEvens(a=[1,2,3,4.5,6])
+def getSumEvens(a=[1,2,3,4,5,6])
 # your code here
 	return 12;
 end
