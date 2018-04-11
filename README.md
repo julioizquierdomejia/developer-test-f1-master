@@ -24,10 +24,8 @@ Retos:
 
 
 PD:
-para el reto de twitter tienen varios caminos implementar su propio proxy API , usar algun scrapper público o sino tambien usar este : 
+para el reto de twitter tienen este servicio : 
 
 > http://185.34.136.184:7890/1.1/statuses/user_timeline.json?screen_name=sshkey&count=1
 
 es un proxy que habilitamos para las pruebas asi que en unos dias estara off, es compatible con el api 1.1 de twitter.
-
-voy a tomar en cuenta todo aspecto de la solución.
