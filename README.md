@@ -7,7 +7,7 @@ Adicionalmente agregamos unas preguntas en el archivo cuestionario.md que debes 
 Suerte!
 
 Instrucciones:
-* 1) forkear/clonar este repositorio
+* 1) crear un repositorio copia de este repo
 * 2) resolver los retos en ruby
 * 3) responder las preguntas del archivo cuestionario.md
 * 4) pushear todo y enviar al mail plataforma@geosatelital.com tu repositorio publico de la solución
